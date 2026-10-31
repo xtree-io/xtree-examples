@@ -1,8 +1,8 @@
 # XTREE examples
 
-Copy-paste scenarios for the [XTREE](https://www.xtree.io) API using the Python SDK. Each folder is **independently runnable**.
+Runnable API examples for the [XTREE](https://www.xtree.io) Python SDK. Each folder is one call you can copy. This repository is not the SDK and not the MCP server.
 
-XTREE provides **real-time raw data** (not BI conclusions). Every successful call is billed from your wallet (CNY). Incomplete delivery is not billed. Prices: [API Catalog](https://www.xtree.io/catalog).
+XTREE provides **real-time raw data** (not BI conclusions). Every successful call is billed from your wallet (CNY). Incomplete delivery is not billed. Prices: [API Catalog](https://www.xtree.io/catalog). Field reference: [API docs](https://www.xtree.io/docs/apis).
 
 ## Setup
 

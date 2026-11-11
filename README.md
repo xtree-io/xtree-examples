@@ -7,7 +7,7 @@ XTREE provides **real-time raw data** (not BI conclusions). Every successful cal
 ## Setup
 
 ```bash
-pip install "git+https://github.com/xtree-io/xtree-python.git"
+pip install xtree-sdk
 export XTREE_API_KEY=xt_live_...   # from https://www.xtree.io
 ```
 
